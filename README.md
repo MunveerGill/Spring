@@ -1,3 +1,3 @@
 # Spring
-Playing with Java Spring API's.
+Playing with Spring to build a REST API.
 
